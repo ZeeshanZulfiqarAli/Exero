@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="icons">
+        <file>final_fyp_logo2.svg</file>
+        <file>bookmark_add.svg</file>
+        <file>bookmark_remove.svg</file>
+        <file>icons8-bookmark.svg</file>
+        <file>icons8-folder.svg</file>
+        <file>playIcon.svg</file>
+        <file>pauseIcon.svg</file>
+        <file>expand.svg</file>
+        <file>collapse.svg</file>
+    </qresource>
+    <qresource prefix="audio">
+        <file>bell.wav</file>
+    </qresource>
+    <qresource prefix="splashscreen">
+        <file alias="frame.gif">frame0000_3.gif</file>
+    </qresource>
+</RCC>

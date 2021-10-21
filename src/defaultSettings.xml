@@ -1,0 +1,16 @@
+<settings>
+    <boxColor>#E57272</boxColor>
+    <bboxWidth>4</bboxWidth>
+    <showAccuracy>False</showAccuracy>
+    <videoPrefix>video_</videoPrefix>
+    <singleVideoFile>False</singleVideoFile>
+    <dGenrGap>30</dGenrGap>
+    <accThres>50</accThres>
+    <dequeLength>4</dequeLength>
+    <alarmThreshold>0.50</alarmThreshold>
+    <dbGenrPrefix>image_</dbGenrPrefix>
+    <maxDGenrImgCount>100</maxDGenrImgCount>
+    <playAlarm>True</playAlarm>
+    <maxVideoFrameWidth>800</maxVideoFrameWidth>
+    <maxVideoFrameHeight>600</maxVideoFrameHeight>
+</settings>
